@@ -9,7 +9,7 @@ header {
     display: flex;
     flex-direction: row;
     align-items: center;
-    background-color: #000000;
+    background-color: #090c12;
     justify-content: space-between;
     padding: 10px;
     padding-left: 50px;
@@ -28,7 +28,7 @@ header h1 {
 }
 
 #titulo_header p {
-    background-color: #E84500;
+    background-color: #FF6B00;
     color: #1E0038;
     font-size: 20px;
     padding: 10px;
@@ -36,7 +36,7 @@ header h1 {
 }
 
 #descricao_personagens {
-    background-color: #575757;
+    background-color: #1E293B;
     padding: 60px;
     text-align: center;
 }
@@ -46,18 +46,18 @@ header h1 {
 }
 
 #galeria {
-    background-color: #333333;
+    background-color: #475569;
 }
 
 #titulo_galeria {
     padding: 30px;
-    color:#E84500;
+    color:#FF6B00;
     text-align: center;
 }
 
 #titulo_galeria h2 {
     font-size: 40px;
-    color: #ac3300;
+    color: #FF6B00;
 }
 
 
@@ -70,7 +70,7 @@ header h1 {
 
 
 #card {
-    background-color: #cf3e00b6;
+    background-color: #E2E8F0;
     margin: 1%;
     text-align: center;
     padding-bottom: 10px;
@@ -94,7 +94,7 @@ header h1 {
 
 
 footer {
-    background-color: #000000;
+    background-color: #1E293B;
     display: flex;
     justify-content: space-between;
     padding: 20px;
@@ -103,7 +103,7 @@ footer {
 
 .botao_verde {
     text-decoration: none;
-    background-color:#E84500;
+    background-color:#FF6B00;
     padding: 12px;
     border-radius: 10px;
     font-weight: bold;
@@ -113,7 +113,7 @@ footer {
 
 .botao_claro {
     text-decoration: none;
-    background-color: #A8A8A8;
+    background-color: #E2E8F0;
     padding: 12px;
     color: #000;
     border-radius: 10px;
@@ -122,5 +122,5 @@ footer {
 }
 
 .verde {
-    color: #E84500;
+    color: #FF6B00;
 }
